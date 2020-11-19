@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi.Tests\\SampleApi.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi.Tests\\SampleApi.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi.Tests\\SampleApi.Tests.csproj",
+        "projectName": "SampleApi.Tests",
+        "projectPath": "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi.Tests\\SampleApi.Tests.csproj",
+        "packagesPath": "C:\\Users\\Joane\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi\\SampleApi.csproj": {
+                "projectPath": "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi\\SampleApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "moq": {
+              "target": "Package",
+              "version": "[4.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi\\SampleApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi\\SampleApi.csproj",
+        "projectName": "SampleApi",
+        "projectPath": "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi\\SampleApi.csproj",
+        "packagesPath": "C:\\Users\\Joane\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\c-final-capstone-pothole-tracker\\vue_starter_dotnet\\backend\\SampleApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "swashbuckle.aspnetcore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
