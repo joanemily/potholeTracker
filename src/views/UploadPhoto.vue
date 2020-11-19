@@ -33,8 +33,8 @@ export default {
          * @function
          */
         addFormData(file, xhr, formData) {
-        formData.append("api_key", "338668862972959");  // my api key
-        formData.append("upload_preset", "rrnjehvy"); // my upload preset
+        formData.append("api_key", "zzzzzzz");  // my api key
+        formData.append("upload_preset", "zzzzz"); // my upload preset
         formData.append("timestamp", (Date.now() / 1000) | 0);
         formData.append("tags", "pothole-tracker");
         },
